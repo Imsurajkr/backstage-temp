@@ -1,4 +1,4 @@
-site_name: '{component-name}'
+site_name: 'sample_service'
 
 nav:
   - Home: index.md
