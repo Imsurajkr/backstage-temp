@@ -8,4 +8,4 @@ spec:
   lifecycle: production
   owner: spotify
   definition:
-    $text: https://github.com/moby/moby/blob/master/api/swagger.yaml
+    $text: https://github.com/backstage/backstage/blob/master/packages/catalog-model/examples/apis/spotify-api.yaml
