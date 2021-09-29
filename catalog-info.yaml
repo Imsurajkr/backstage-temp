@@ -6,6 +6,7 @@ metadata:
     A service for testing Backstage functionality. Configured for
     GitHub Actions.
   annotations:
+      github.com/team-slug:  Imsurajkr/unity-test-runner 
       backstage.io/techdocs-ref: url:https://github.com/imsurajkr/backstage-temp/tree/master
 spec:
   type: service
