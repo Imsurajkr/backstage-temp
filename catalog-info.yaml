@@ -6,7 +6,7 @@ metadata:
     A service for testing Backstage functionality. Configured for
     GitHub Actions.
   annotations:
-      backstage.io/techdocs-ref: url:https://github.com/imsurajkr/backstage-temp/tree/main
+      backstage.io/techdocs-ref: url:https://github.com/imsurajkr/backstage-temp/tree/master
 spec:
   type: service
   owner: DevOps-Team
