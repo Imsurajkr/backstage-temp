@@ -6,7 +6,8 @@ metadata:
     A service for testing Backstage functionality. Configured for
     GitHub Actions.
   annotations:
-      github.com/poject-slug:  Imsurajkr/backstage-temp 
+      github.com/poject-slug:  Imsurajkr/backstage-temp
+      backstage.io/kubernetes-id: sample-service-1
       backstage.io/techdocs-ref: url:https://github.com/imsurajkr/backstage-temp/tree/master
 spec:
   type: service
